@@ -78,7 +78,7 @@ const Sidebar: React.FC = () => {
         <div className="flex items-center space-x-3">
           {/* <Dumbbell className="w-8 h-8 text-mutedTeal" /> */}
         <img
-          src="src/data/image.png"
+          src="https://temp-image.com/ib/Wyl4cGskDtCE27k_1753361326.png"
           alt="Dumbbell Icon"
           className="w-14 h-14 object-contain"
         />

@@ -33,7 +33,7 @@ const Login: React.FC = () => {
             <div className="w-12 h-12 bg-mutedTeal rounded-xl flex items-center justify-center">
               {/* <Dumbbell className="w-7 h-7 text-white" /> */}
             <img
-              src="src/data/image.png"
+              src="https://temp-image.com/ib/Wyl4cGskDtCE27k_1753361326.png"
               alt="Dumbbell Icon"
               className="w-8 h-8 object-contain"
             />
